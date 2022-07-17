@@ -6,7 +6,7 @@ We propose a trainable Image Signal Processing (ISP) framework that produces DSL
 
 # Proposed Framework
 
-![TransformPhone2DSLR](https://github.com/4rdhendu/TransformPhone2DSLR/overview.png?raw=true)
+![TransformPhone2DSLR](https://github.com/4rdhendu/TransformPhone2DSLR/overview.png)
 
 # Results
 
