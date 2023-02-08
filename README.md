@@ -10,7 +10,7 @@ We propose a trainable Image Signal Processing (ISP) framework that produces DSL
 
 # Results
 
-For quantitative and qualitative results refer to the paper. 
+For quantitative and qualitative results refer to the paper.  
 
 # Code will be released soon
 
